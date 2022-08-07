@@ -1,3 +1,8 @@
+
+.pop-sec1{
+    background-color:white;
+    margin-top:50px;
+}
 #aboutdx {
        text-align: center;
        padding: 5px 1px;
@@ -9,7 +14,7 @@
        }
        
        #aboutdx img {
-       width: 95%;
+       width: 98%;
        height: auto;
        }
        
@@ -114,6 +119,8 @@ font-weight: bold;
 }
 
 .contentbd2 ul {
+background-color:white;
+color:black;
 padding-left: 20px !important;
 padding-top: 0 !important;
 }
@@ -158,7 +165,16 @@ border: 1px solid #666;
 background-color: #fff;
 color: #000;
 }
-
+.cvpskillbd2{
+    color:black;
+}
+.headerbd2{
+    color:black;
+}
+.cvpsummarybd2 h3,p{
+    color:black;
+    font-size:15px;
+}
 .hidden {
 display: none;
 }
@@ -186,3 +202,6 @@ max-height: 320px;
 height: 240px;
 }
 }
+
+
+
